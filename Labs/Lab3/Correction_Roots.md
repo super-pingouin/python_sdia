@@ -22,7 +22,7 @@ $$\alpha^{2} (W_{n-1}- W_{n})^{T} (W_{n-1}- W_{n})+ 2\alpha (W_{n-1}- W_{n})^{T}
 resulting in the following 2nd order polynomial equation in $\alpha$:
 
 $$
-    p(\alpha) = \alpha^2 \Vert W_{n-1} - W_n \Vert^2  + 2\alpha \langle W_{n-1} - W_n, W_n \rangle + \Vert W_{n}\Vert^2 - 1 = 0,~ \text{for } \alpha \in [0,1].
+    p(\alpha) = \alpha^2 \Vert W_{n-1} - W_n \Vert^2  + 2\alpha \langle W_{n-1} - W_n, W_n \rangle + \Vert W_{n}\Vert^2 - 1 ,~ \text{for } \alpha \in [0,1].
 $$
 
 > Hint: 
@@ -42,4 +42,4 @@ $$
 
   which results in $\alpha^* = \frac{- \langle W_{n-1} - W_n, W_n \rangle \pm \sqrt{\langle W_{n-1} - W_n, W_n \rangle^2 + \Vert W_{n-1} - W_n\Vert^2 (1-\Vert W_{n}\Vert^2)}}{\Vert W_n- W_{n-1} \Vert^2}$
 
-and $W^* = \alpha^* W_{n-1} + (1-\alpha^*) W_{n}$.
+and $W^* = \alpha^* W_{n-1} + (1-\alpha^*) W_{n}$ with $\alpha^* \in [0,1]$
