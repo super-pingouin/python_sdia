@@ -1,4 +1,4 @@
-# Finding $W^*$ :
+# Finding $W^{\star}$ :
 
 Correction (**here $W_{n-1}$ takes the place of $\vec{A}$ and $\vec{B}$ the place of $W_{n}$**):
 
