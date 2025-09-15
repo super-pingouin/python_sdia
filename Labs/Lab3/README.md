@@ -19,7 +19,7 @@ Your aswers will be evaluated depending on:
 
 You will have to submit just the notebook named LAST_NAME1-LAST_NAME1-Lab3.ipnyb with your solutions.
 
-The deadline is October 4 upload your jupyter notebook on Moodle.
+The deadline is indicated on Moodle. Please upload your zip file before then.
 
 ## Late Policy
 
