@@ -29,7 +29,7 @@ You will have to submit a .zip file named LAST_NAME1-LAST_NAME1-Lab2.zip with yo
 
 Please make sure that the size of your zip file is not larger than 5MB.
 
-The deadline is September 27 upload your zip file on Moodle.
+The deadline is indicated on Moodle. Please upload your zip file before then.
 
 ## Late Policy
 
