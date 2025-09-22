@@ -34,7 +34,7 @@ $$
 Thus,
 
 $$
-    \Delta = 4 \big[ \langle W_{n-1} - W_n, W_n \rangle^2 + \Vert W_n- W_{n-1} \Vert^2 \underbrace{(1-\Vert W_{n}\Vert^2)}_{>0~\text{because}~\Vert W_{n}\Vert^2)\leq 1~\text{W_n}~\text{is inside or reaches the border of the unit ball} \big], $$
+    \Delta = 4 \big[ \langle W_{n-1} - W_n, W_n \rangle^2 + \Vert W_n- W_{n-1} \Vert^2 \underbrace{(1-\Vert W_{n}\Vert^2)}_{>0}\big], $$
  
  Then   
     
